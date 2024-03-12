@@ -2,7 +2,7 @@
 package Lista3;
 
 public class Fucionario {
-    public double dinheiro = 0;
+    public double dinheiro = 1000;
     public String nome = "Zumbi";
     public int ataque =1000;
     

@@ -2,31 +2,31 @@
 class Livros {
     @Override
     protected Object clone() throws CloneNotSupportedException {
-        // TODO Auto-generated method stub
+        
         return super.clone();
     }
 
     @Override
     public boolean equals(Object obj) {
-        // TODO Auto-generated method stub
+       
         return super.equals(obj);
     }
 
     @Override
     protected void finalize() throws Throwable {
-        // TODO Auto-generated method stub
+       
         super.finalize();
     }
 
     @Override
     public int hashCode() {
-        // TODO Auto-generated method stub
+        
         return super.hashCode();
     }
 
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
+        
         return super.toString();
     }
 
@@ -56,7 +56,7 @@ class Livros {
     // Getters and setters
 
     public Livros(String titulo2, String autor2, int lanccamentoAno2, int lanccamentoMes2, int lanccamentoDia2) {
-        //TODO Auto-generated constructor stub
+       
     }
 
     public int getLanccamentoAno() {

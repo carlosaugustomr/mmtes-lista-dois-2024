@@ -6,22 +6,14 @@ public class Pobre {
          public int idade = 101;
  
          public void perderVida(){
-             if(vida<=0) {
-                 vida--;
-             }else {
-         vida--;
+             vida= vida -50;
              }
-         }
+         
          public void ganharVida() {
-             if(vida>=100) {
-                 vida++;
-             }else{
-                         
-             vida++;
+             vida = vida + 25;
              }
              
          }
  
  
     
-}
