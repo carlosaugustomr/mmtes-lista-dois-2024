@@ -23,7 +23,8 @@ public interface Main {
 		    	 
 		    	 System.out.println(fucionarioLocal.dinheiro);
 		    }else {
-		    	System.out.println(fucionarioLocal.dinheiro);
+		    	System.out. println(fucionarioLocal.dinheiro);
+				System.err.println();
 		    }
 		    }		    	
 	 }
